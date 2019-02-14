@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/alexeevaDaria/alexeevaDaria.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* BSUIR, faculty of Computer System and Networks, speciality Information Technology Software, day form (2016 - 2020)
+* English courses at International House, Minsk
+* JavaScript courses, EPAM Rolling Scopes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
 
-### Markdown
+* Knowledge of C# (.NET), JavaScript (+ HTML,CSS), php, C and Delphi
+* Understanding of OOP concepts, data structures and algorithms
+* Have a basic knowledge of MySQL, MS SQL Server
+* Understanding of Web architecture and principles
+* Experience of bulding client-server systems
+* B2 level of English
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me
 
-```markdown
-Syntax highlighted code block
+Have worked on individual projects as well as group projects, always ready for new challenges.
 
-# Header 1
-## Header 2
-### Header 3
+## EPAM training
 
-- Bulleted
-- List
+* РАЗРАБОТКА СОВРЕМЕННЫХ ВЕБ-ПРИЛОЖЕНИЙ С ПОМОЩЬЮ ASP.NET И MICROSOFT AZURE - 2019
+* Rolling Scopes - autumn of 2018
 
-1. Numbered
-2. List
+[GitHub](https://github.com/alexeevaDaria) 
+[CodeWars](https://www.codewars.com/users/RNBGOD)
 
-**Bold** and _Italic_ and `Code` text
+* PadawansTask1 https://github.com/alexeevaDaria/PadawansTask1
+* PadawansTask2 https://github.com/alexeevaDaria/PadawansTask2
+* PadawansTask3 https://github.com/alexeevaDaria/PadawansTask3
 
-[Link](url) and ![Image](src)
-```
+# Contacts
+ - 
+_not your typical cheesy quote_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexeevaDaria/alexeevaDaria.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
