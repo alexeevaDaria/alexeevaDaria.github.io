@@ -9,6 +9,7 @@
 * Knowledge of C# (.NET), JavaScript (+ HTML,CSS), php, C and Delphi
 * Understanding of OOP concepts, data structures and algorithms
 * Have a basic knowledge of MySQL, MS SQL Server
+* Experience with Linux/Windows Operating Systems
 * Understanding of Web architecture and principles
 * Experience of bulding client-server systems
 * B2 level of English
