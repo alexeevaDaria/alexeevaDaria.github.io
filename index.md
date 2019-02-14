@@ -25,9 +25,9 @@ Have worked on individual projects as well as group projects, always ready for n
 [GitHub](https://github.com/alexeevaDaria) 
 [CodeWars](https://www.codewars.com/users/RNBGOD)
 
-* PadawansTask1 https://github.com/alexeevaDaria/PadawansTask1
-* PadawansTask2 https://github.com/alexeevaDaria/PadawansTask2
-* PadawansTask3 https://github.com/alexeevaDaria/PadawansTask3
+* PadawansTask1 [GitHub](https://github.com/alexeevaDaria/PadawansTask1)
+* PadawansTask2 [GitHub](https://github.com/alexeevaDaria/PadawansTask2)
+* PadawansTask3 [GitHub](https://github.com/alexeevaDaria/PadawansTask3)
 
 # Contacts
  - 
