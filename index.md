@@ -37,5 +37,5 @@ Have worked on individual projects as well as group projects, always ready for n
 
 # Contacts
  - 
-_not your typical cheesy quote_
+_can i get a cookie?_
 
