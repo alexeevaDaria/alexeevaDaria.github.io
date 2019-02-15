@@ -26,9 +26,14 @@ Have worked on individual projects as well as group projects, always ready for n
 [GitHub](https://github.com/alexeevaDaria) 
 [CodeWars](https://www.codewars.com/users/RNBGOD)
 
+* FancyCalc [GitHub](https://github.com/alexeevaDaria/FancyCalc)
 * PadawansTask1 [GitHub](https://github.com/alexeevaDaria/PadawansTask1)
 * PadawansTask2 [GitHub](https://github.com/alexeevaDaria/PadawansTask2)
 * PadawansTask3 [GitHub](https://github.com/alexeevaDaria/PadawansTask3)
+* PadawansTask4 [GitHub](https://github.com/alexeevaDaria/PadawansTask4)
+* PadawansTask5 [GitHub](https://github.com/alexeevaDaria/PadawansTask5)
+* PadawansTask6 [GitHub](https://github.com/alexeevaDaria/PadawansTask6)
+* PadawansTask13 [GitHub](https://github.com/alexeevaDaria/PadawansTask13)
 
 # Contacts
  - 
