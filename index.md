@@ -33,6 +33,8 @@ Have worked on individual projects as well as group projects, always ready for n
 * PadawansTask4 [GitHub](https://github.com/alexeevaDaria/PadawansTask4)
 * PadawansTask5 [GitHub](https://github.com/alexeevaDaria/PadawansTask5)
 * PadawansTask6 [GitHub](https://github.com/alexeevaDaria/PadawansTask6)
+* PadawansTask7 [GitHub](https://github.com/alexeevaDaria/PadawansTask7)
+* PadawansTask8 [GitHub](https://github.com/alexeevaDaria/PadawansTask8)
 * PadawansTask13 [GitHub](https://github.com/alexeevaDaria/PadawansTask13)
 
 # Contacts
