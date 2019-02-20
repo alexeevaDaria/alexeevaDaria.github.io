@@ -35,6 +35,10 @@ Have worked on individual projects as well as group projects, always ready for n
 * PadawansTask6 [GitHub](https://github.com/alexeevaDaria/PadawansTask6)
 * PadawansTask7 [GitHub](https://github.com/alexeevaDaria/PadawansTask7)
 * PadawansTask8 [GitHub](https://github.com/alexeevaDaria/PadawansTask8)
+* PadawansTask9 [GitHub](https://github.com/alexeevaDaria/PadawansTask9)
+* PadawansTask10 [GitHub](https://github.com/alexeevaDaria/PadawansTask10)
+* PadawansTask11 [GitHub](https://github.com/alexeevaDaria/PadawansTask11)
+* PadawansTask12 [GitHub](https://github.com/alexeevaDaria/PadawansTask12)
 * PadawansTask13 [GitHub](https://github.com/alexeevaDaria/PadawansTask13)
 
 # Contacts
