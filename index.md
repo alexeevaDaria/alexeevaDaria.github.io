@@ -19,9 +19,9 @@
 Have worked on individual projects as well as group projects, always ready for new challenges.
 
 # Contacts
-[GitHub](https://github.com/alexeevaDaria) 
-[CodeWars](https://www.codewars.com/users/RNBGOD)
+ * [GitHub](https://github.com/alexeevaDaria) 
+ * [CodeWars](https://www.codewars.com/users/RNBGOD)
 
  - 
-_can i get a cookie?_
+
 
