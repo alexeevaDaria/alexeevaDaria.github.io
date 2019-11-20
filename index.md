@@ -24,7 +24,7 @@ Have worked on individual projects as well as group projects, always ready for n
  * [CodeWars](https://www.codewars.com/users/RNBGOD)
  * Contact Number + 375 29 887 05 43
  * mail           alexeeva.daria.99@mail.ru
-
+ * Telegram       @dariamone
  - 
 
 
