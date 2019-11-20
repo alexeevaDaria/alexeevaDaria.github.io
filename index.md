@@ -15,6 +15,7 @@
 * B2 level of English
 
 ## About me
+* Had experience in developing 3-layered web-application (.Net Core)
 
 Have worked on individual projects as well as group projects, always ready for new challenges.
 
