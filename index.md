@@ -2,7 +2,6 @@
 
 * BSUIR, faculty of Computer System and Networks, speciality Information Technology Software, day form (2016 - 2020)
 * English courses at International House, Minsk
-* JavaScript courses, EPAM Rolling Scopes
 
 ## Skills
 
